@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+typer
+websockets
+redis
+colorama
+pygments
+passlib
+asyncio
